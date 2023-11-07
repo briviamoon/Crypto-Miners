@@ -32,7 +32,7 @@ This program allows you to automatically start a specified program when your Win
 
 1. **Clone the Repository:** Clone or download this repository to your computer.
 
-2. **Compile the Code:** Compile the C program using a C compiler. Replace `"your_program_to_start.exe"` with the actual path to the program you want to run.
+2. **Compile the Code:** Compile the C program using a C compiler.
 
    ```sh
    gcc Initialize.c -o Initializer
