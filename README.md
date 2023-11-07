@@ -3,6 +3,7 @@
 Repo Holding Crypo Miners' Configurations and Binary Packages
 - [Monero](./MONERO/)
 
+------
 # Binary Programs
 
 ---
@@ -60,3 +61,4 @@ This program allows you to automatically start a specified program when your Win
 This code is provided under the [MIT License](LICENSE).
 
 ---
+------
