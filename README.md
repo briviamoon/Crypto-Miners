@@ -6,10 +6,9 @@ Repo Holding Crypo Miners' Configurations and Binary Packages
 ------
 # Binary Programs
 
----
-[initialize](./Initialize)
+# [initialize](./Initialize)
 
-# Windows Startup Program with Resource Management
+*A Windows Startup Program with Resource Management*
 
 ## Overview
 
