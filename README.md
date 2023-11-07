@@ -1,6 +1,6 @@
 ## Crypto-Miners
 
-**Crypo Miners' Configurations and Binary Packages**
+- Crypo Miners' Configurations and Binary Packages
 
 # [Monero](https://github.com/briviamoon/Crypto-Miners/MONERO/) - *Folder containing Monero Config and Binary Executable for linux And Windows*
 
@@ -8,7 +8,9 @@
 
 ## Binary Programs
 
-# [initialize](./Initialize) - *A Windows Startup Program with Resource Management*
+# [initialize](./Initialize)
+
+- A Windows Startup Program with Resource Management
 
 ## Overview
 
