@@ -2,7 +2,7 @@
 
 - Crypo Miners' Configurations and Binary Packages
 
-# [Monero](https://github.com/briviamoon/Crypto-Miners/MONERO/)
+# [Monero](./MONERO/)
 
 Folder containing Monero Config and Binary Executable for linux And Windows
 
