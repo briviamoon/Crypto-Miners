@@ -1,14 +1,12 @@
-# Crypto-Miners
+## Crypto-Miners - *Crypo Miners' Configurations and Binary Packages*
 
-Repo Holding Crypo Miners' Configurations and Binary Packages
-- [Monero](./MONERO/)
+# [Monero](https://github.com/briviamoon/Crypto-Miners/MONERO/) - *Folder containing Monero Config and Binary Executable for linux And Windows*
 
 ------
+
 ## Binary Programs
 
-# [initialize](./Initialize)
-
-*A Windows Startup Program with Resource Management*
+# [initialize](./Initialize) - *A Windows Startup Program with Resource Management*
 
 ## Overview
 
@@ -39,6 +37,7 @@ This program allows you to automatically start a specified program when your Win
    ```
 
 3. **Execute the Program:** Run the compiled program. This will set up a scheduled task to run the specified program at system startup and adjust its resource usage based on system activity.
+
    ```sh
    Initializer <PATH-TO-YOUR-.EXE-FILE>
    ```
@@ -59,5 +58,4 @@ This program allows you to automatically start a specified program when your Win
 
 This code is provided under the [MIT License](LICENSE).
 
----
 ------
