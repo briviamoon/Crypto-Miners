@@ -49,7 +49,7 @@ This program allows you to automatically start a specified program when your Win
 
 - You can customize the program by modifying the variables in the C code to match your specific requirements. For example, you can change the paths, adjust resource management settings, or modify the resource management logic.
 
-- The code dynamically determines the parent folder of the running program and the parent folder of the targeted program. Replace `"your_program_to_start.exe"` with the name of the targeted program.
+- The code dynamically determines the parent folder of the running program and the parent folder of the targeted program.
 
 ## Warning
 
