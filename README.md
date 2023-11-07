@@ -4,7 +4,7 @@ Repo Holding Crypo Miners' Configurations and Binary Packages
 - [Monero](./MONERO/)
 
 ------
-# Binary Programs
+## Binary Programs
 
 # [initialize](./Initialize)
 
