@@ -26,7 +26,7 @@ This program allows you to automatically start a specified program when your Win
 
 - **Folder Hiding:** The program hides the folder containing the specified program and the folder of the targeted program to maintain a low profile.
 
-## Prerequisites
+## Requisites
 
 - Windows operating system
 - C compiler (e.g., Visual Studio, MinGW, or another suitable compiler)
@@ -39,13 +39,13 @@ This program allows you to automatically start a specified program when your Win
 2. **Compile the Code:** Compile the C program using a C compiler.
 
    ```sh
-   gcc Initialize.c -o Initializer
+   gcc Initialize.c -o <chosen name>
    ```
 
 3. **Execute the Program:** Run the compiled program. This will set up a scheduled task to run the specified program at system startup and adjust its resource usage based on system activity.
 
    ```sh
-   Initializer <PATH-TO-YOUR-.EXE-FILE>
+   <chosen name> <PATH-TO-YOUR-.EXE-FILE>
    ```
 
 4. **Background Operation:** The program will run in the background indefinitely. To stop it, you will need to manually terminate it from the command prompt or task manager.
@@ -65,3 +65,8 @@ This program allows you to automatically start a specified program when your Win
 This code is provided under the [MIT License](LICENSE).
 
 ------
+
+## AUTHOR
+
+- [Brivia Odunga](https://github.com/briviamoon)
+
